@@ -9,6 +9,8 @@
 4. Run the .py file!
    <pre>python Webhook-Messager.py</pre>
 
-## Note
-The first recaptcha has to be completed manually.
+## Credits
+Invalid Yuki#9597
+https://github.com/HotXfudge
+
 
