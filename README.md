@@ -2,7 +2,7 @@
 1. Git-clone this repository/or Download the zip.file and unpack it & change directory
 
    <pre>git clone https://github.com/HotXfudge/Discord-Webhook-Messager.git</pre>
-   <pre>cd tiktodv3</pre>
+   <pre>cd Discord-Webhook-Messager</pre>
 2. Install modules using pip:
    <pre>pip install -r requirements.txt</pre>
 3. Navigate in the unpacked Folder!
